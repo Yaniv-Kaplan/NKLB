@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">NKLB</string>
+    <string name="title">DB Test</string>
+    <string name="b1_basic">Button</string>
 </resources>
